@@ -558,7 +558,7 @@ This project is open-source and available for educational purposes.
 
 ## Author
 
-**Basit Baran**
+**Abdul Basit**
 
 GitHub:
 
